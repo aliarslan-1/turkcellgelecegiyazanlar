@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">girisyaplogin</string>
+    <string name="ho_geldiniz">Hoş Geldiniz</string>
+    <string name="textview">TextView</string>
+    <string name="ifreniz">Şifreniz</string>
+    <string name="ifremi_unuttum">Şifremi Unuttum</string>
+</resources>
